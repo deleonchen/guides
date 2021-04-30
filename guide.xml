@@ -1,321 +1,451 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="AlJazeera English">
     <display-name lang="en">AlJazeera English</display-name>
     <url>http://www.aljazeera.com</url>
   </channel>
-  <channel id="CNA (HD)">
+  <channel id="CNA.sg">
     <display-name lang="en">CNA (HD)</display-name>
     <url>http://www.singteltv.com.sg</url>
   </channel>
-  <channel id="CGTN">
+  <channel id="18">
     <display-name lang="en">CGTN</display-name>
-    <url>http://www.gigatv.3bb.co.th</url>
+    <url>http://www.singteltv.com.sg</url>
   </channel>
-  <channel id="Warner TV">
+  <channel id="WarnerTV.us">
     <display-name lang="en">Warner TV</display-name>
-    <url>http://www.tv.trueid.net</url>
+    <url>http://www.singteltv.com.sg</url>
   </channel>
-  <programme start="20210501000000 +0800" stop="20210501010000 +0800" channel="CNA (HD)">
+  <programme start="20210501000000 +0800" stop="20210501010000 +0800" channel="CNA.sg">
     <title lang="en">World Tonight</title>
     <desc lang="en">A wrap of the day's events in Asia, and a look-ahead at the US and Europe.(n)</desc>
   </programme>
-  <programme start="20210501010000 +0800" stop="20210501010200 +0800" channel="CNA (HD)">
+  <programme start="20210501010000 +0800" stop="20210501010200 +0800" channel="CNA.sg">
     <title lang="en">Headline News</title>
     <desc lang="en">The latest top stories of the hour.(n)</desc>
   </programme>
-  <programme start="20210501010200 +0800" stop="20210501013000 +0800" channel="CNA (HD)">
+  <programme start="20210501010200 +0800" stop="20210501013000 +0800" channel="CNA.sg">
     <title lang="en">CNA Correspondent</title>
     <desc lang="en">Following the coup in Myanmar, neighbouring Thailand braces for a potential humanitarian crisis as villagers near the border flee increased violence between the military and ethnic army groups.(n)</desc>
   </programme>
-  <programme start="20210501013000 +0800" stop="20210501020000 +0800" channel="CNA (HD)">
+  <programme start="20210501013000 +0800" stop="20210501020000 +0800" channel="CNA.sg">
     <title lang="en">Talking Point</title>
     <desc lang="en">The global air fryer market is expected to reach US$1.2b by 2026. With more Singaporeans using air fryers, Talking Point investigates how much healthier air frying really is, compared to deep frying.(n)</desc>
   </programme>
-  <programme start="20210501020000 +0800" stop="20210501030000 +0800" channel="CNA (HD)">
+  <programme start="20210501020000 +0800" stop="20210501030000 +0800" channel="CNA.sg">
     <title lang="en">Singapore Tonight</title>
     <desc lang="en">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.(n)</desc>
   </programme>
-  <programme start="20210501030000 +0800" stop="20210501040000 +0800" channel="CNA (HD)">
+  <programme start="20210501030000 +0800" stop="20210501040000 +0800" channel="CNA.sg">
     <title lang="en">Belly Of A Nation S2</title>
     <desc lang="en">COVID-19 forces Singapore into semi-lockdown. Hawkers cope with lesser footfall and the demands of religion. But from ground-up, hawkers, drivers and customers unite for the love of food.(n)</desc>
   </programme>
-  <programme start="20210501040000 +0800" stop="20210501050000 +0800" channel="CNA (HD)">
+  <programme start="20210501040000 +0800" stop="20210501050000 +0800" channel="CNA.sg">
     <title lang="en">Asia Tonight</title>
     <desc lang="en">CNA correspondents bring you the top stories of the day with 'live' reports and interviews to keep you up-to-date on the day's events.(n)</desc>
   </programme>
-  <programme start="20210501050000 +0800" stop="20210501053000 +0800" channel="CNA (HD)">
+  <programme start="20210501050000 +0800" stop="20210501053000 +0800" channel="CNA.sg">
     <title lang="en">CNA Correspondent</title>
     <desc lang="en">Following the coup in Myanmar, neighbouring Thailand braces for a potential humanitarian crisis as villagers near the border flee increased violence between the military and ethnic army groups.(n)</desc>
   </programme>
-  <programme start="20210501053000 +0800" stop="20210501060000 +0800" channel="CNA (HD)">
+  <programme start="20210501053000 +0800" stop="20210501060000 +0800" channel="CNA.sg">
     <title lang="en">Talking Point</title>
     <desc lang="en">The global air fryer market is expected to reach US$1.2b by 2026. With more Singaporeans using air fryers, Talking Point investigates how much healthier air frying really is, compared to deep frying.(n)</desc>
   </programme>
-  <programme start="20210501060000 +0800" stop="20210501070000 +0800" channel="CNA (HD)">
+  <programme start="20210501060000 +0800" stop="20210501070000 +0800" channel="CNA.sg">
     <title lang="en">Singapore Tonight</title>
     <desc lang="en">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.(n)</desc>
   </programme>
-  <programme start="20210501070000 +0800" stop="20210501073000 +0800" channel="CNA (HD)">
+  <programme start="20210501070000 +0800" stop="20210501073000 +0800" channel="CNA.sg">
     <title lang="en">Asia Now</title>
     <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.(n)</desc>
   </programme>
-  <programme start="20210501073000 +0800" stop="20210501080000 +0800" channel="CNA (HD)">
+  <programme start="20210501073000 +0800" stop="20210501080000 +0800" channel="CNA.sg">
     <title lang="en">CNA Correspondent</title>
     <desc lang="en">Following the coup in Myanmar, neighbouring Thailand braces for a potential humanitarian crisis as villagers near the border flee increased violence between the military and ethnic army groups.(n)</desc>
   </programme>
-  <programme start="20210501080000 +0800" stop="20210501083000 +0800" channel="CNA (HD)">
+  <programme start="20210501080000 +0800" stop="20210501083000 +0800" channel="CNA.sg">
     <title lang="en">Asia Now</title>
     <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.(n)</desc>
   </programme>
-  <programme start="20210501083000 +0800" stop="20210501090000 +0800" channel="CNA (HD)">
+  <programme start="20210501083000 +0800" stop="20210501090000 +0800" channel="CNA.sg">
     <title lang="en">Talking Point</title>
     <desc lang="en">The global air fryer market is expected to reach US$1.2b by 2026. With more Singaporeans using air fryers, Talking Point investigates how much healthier air frying really is, compared to deep frying.(n)</desc>
   </programme>
-  <programme start="20210501090000 +0800" stop="20210501093000 +0800" channel="CNA (HD)">
+  <programme start="20210501090000 +0800" stop="20210501093000 +0800" channel="CNA.sg">
     <title lang="en">Asia Now</title>
     <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.(n)</desc>
   </programme>
-  <programme start="20210501093000 +0800" stop="20210501100000 +0800" channel="CNA (HD)">
+  <programme start="20210501093000 +0800" stop="20210501100000 +0800" channel="CNA.sg">
     <title lang="en">Secret Delicious</title>
     <desc lang="en">Aun Koh gets Chef Garima Arora, Asia's Best Female Chef (2019) in Bangkok to reveal her unique fermentation room, and a new recipe inspired by Chiangmai sausage that's not on the menu yet.(n)</desc>
   </programme>
-  <programme start="20210501100000 +0800" stop="20210501100200 +0800" channel="CNA (HD)">
+  <programme start="20210501100000 +0800" stop="20210501100200 +0800" channel="CNA.sg">
     <title lang="en">Headline News</title>
     <desc lang="en">The latest top stories of the hour.(n)</desc>
   </programme>
-  <programme start="20210501100200 +0800" stop="20210501110000 +0800" channel="CNA (HD)">
+  <programme start="20210501100200 +0800" stop="20210501110000 +0800" channel="CNA.sg">
     <title lang="en">The Longest Day</title>
     <desc lang="en">We meet those who are most vulnerable to extreme heat - schoolchildren in Sumba, the elderly in Singapore and slum-dwellers in Delhi - and learn how heat is a silent killer.(n)</desc>
   </programme>
-  <programme start="20210501110000 +0800" stop="20210501113000 +0800" channel="CNA (HD)">
+  <programme start="20210501110000 +0800" stop="20210501113000 +0800" channel="CNA.sg">
     <title lang="en">Asia Now</title>
     <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.(n)</desc>
   </programme>
-  <programme start="20210501113000 +0800" stop="20210501120000 +0800" channel="CNA (HD)">
+  <programme start="20210501113000 +0800" stop="20210501120000 +0800" channel="CNA.sg">
     <title lang="en">CNA Correspondent</title>
     <desc lang="en">Following the coup in Myanmar, neighbouring Thailand braces for a potential humanitarian crisis as villagers near the border flee increased violence between the military and ethnic army groups.(n)</desc>
   </programme>
-  <programme start="20210501120000 +0800" stop="20210501123000 +0800" channel="CNA (HD)">
+  <programme start="20210501120000 +0800" stop="20210501123000 +0800" channel="CNA.sg">
     <title lang="en">Asia Now</title>
     <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.(n)</desc>
   </programme>
-  <programme start="20210501123000 +0800" stop="20210501130000 +0800" channel="CNA (HD)">
+  <programme start="20210501123000 +0800" stop="20210501130000 +0800" channel="CNA.sg">
     <title lang="en">Secret Delicious</title>
     <desc lang="en">Aun Koh gets Chef Garima Arora, Asia's Best Female Chef (2019) in Bangkok to reveal her unique fermentation room, and a new recipe inspired by Chiangmai sausage that's not on the menu yet.(n)</desc>
   </programme>
-  <programme start="20210501130000 +0800" stop="20210501130200 +0800" channel="CNA (HD)">
+  <programme start="20210501130000 +0800" stop="20210501130200 +0800" channel="CNA.sg">
     <title lang="en">Headline News</title>
     <desc lang="en">The latest top stories of the hour.(n)</desc>
   </programme>
-  <programme start="20210501130200 +0800" stop="20210501140000 +0800" channel="CNA (HD)">
+  <programme start="20210501130200 +0800" stop="20210501140000 +0800" channel="CNA.sg">
     <title lang="en">Insight</title>
     <desc lang="en">After the devastation 4 years ago, has the Philippine's city of Marawi risen up from the rubble?(n)</desc>
   </programme>
-  <programme start="20210501140000 +0800" stop="20210501143000 +0800" channel="CNA (HD)">
+  <programme start="20210501140000 +0800" stop="20210501143000 +0800" channel="CNA.sg">
     <title lang="en">Asia Now</title>
     <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.(n)</desc>
   </programme>
-  <programme start="20210501143000 +0800" stop="20210501150000 +0800" channel="CNA (HD)">
+  <programme start="20210501143000 +0800" stop="20210501150000 +0800" channel="CNA.sg">
     <title lang="en">Gangnam Insider's Picks S3</title>
     <desc lang="en">Power up as we explore blood-pumping martial arts from across the world here in Gangnam.(n)</desc>
   </programme>
-  <programme start="20210501150000 +0800" stop="20210501153000 +0800" channel="CNA (HD)">
+  <programme start="20210501150000 +0800" stop="20210501153000 +0800" channel="CNA.sg">
     <title lang="en">Asia Now</title>
     <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.(n)</desc>
   </programme>
-  <programme start="20210501153000 +0800" stop="20210501160000 +0800" channel="CNA (HD)">
+  <programme start="20210501153000 +0800" stop="20210501160000 +0800" channel="CNA.sg">
     <title lang="en">Secret Delicious</title>
     <desc lang="en">Aun Koh gets Chef Garima Arora, Asia's Best Female Chef (2019) in Bangkok to reveal her unique fermentation room, and a new recipe inspired by Chiangmai sausage that's not on the menu yet.(n)</desc>
   </programme>
-  <programme start="20210501160000 +0800" stop="20210501160200 +0800" channel="CNA (HD)">
+  <programme start="20210501160000 +0800" stop="20210501160200 +0800" channel="CNA.sg">
     <title lang="en">Headline News</title>
     <desc lang="en">The latest top stories of the hour.(n)</desc>
   </programme>
-  <programme start="20210501160200 +0800" stop="20210501163000 +0800" channel="CNA (HD)">
+  <programme start="20210501160200 +0800" stop="20210501163000 +0800" channel="CNA.sg">
     <title lang="en">In Conversation</title>
     <desc lang="en">Renowned primatologist Jane Goodall says the disrespect for nature has caused diseases to cross over from animals to humans, like in the COVID-19 pandemic. But how will saving wildlife save humankind?(n)</desc>
   </programme>
-  <programme start="20210501163000 +0800" stop="20210501170000 +0800" channel="CNA (HD)">
+  <programme start="20210501163000 +0800" stop="20210501170000 +0800" channel="CNA.sg">
     <title lang="en">Wizards Of Tech</title>
     <desc lang="en">An aerial silk dancer turning waste into aerogel that can soak up oil spills. Biker buddies giving helmets Ironman-like smart displays. A bird watcher building a drone that does the work of bees.(n)</desc>
   </programme>
-  <programme start="20210501170000 +0800" stop="20210501173000 +0800" channel="CNA (HD)">
+  <programme start="20210501170000 +0800" stop="20210501173000 +0800" channel="CNA.sg">
     <title lang="en">Asia Now</title>
     <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.(n)</desc>
   </programme>
-  <programme start="20210501173000 +0800" stop="20210501180000 +0800" channel="CNA (HD)">
+  <programme start="20210501173000 +0800" stop="20210501180000 +0800" channel="CNA.sg">
     <title lang="en">Talking Point</title>
     <desc lang="en">The global air fryer market is expected to reach US$1.2b by 2026. With more Singaporeans using air fryers, Talking Point investigates how much healthier air frying really is, compared to deep frying.(n)</desc>
   </programme>
-  <programme start="20210501180000 +0800" stop="20210501183000 +0800" channel="CNA (HD)">
+  <programme start="20210501180000 +0800" stop="20210501183000 +0800" channel="CNA.sg">
     <title lang="en">Asia Now</title>
     <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.(n)</desc>
   </programme>
-  <programme start="20210501183000 +0800" stop="20210501190000 +0800" channel="CNA (HD)">
+  <programme start="20210501183000 +0800" stop="20210501190000 +0800" channel="CNA.sg">
     <title lang="en">Secret Delicious</title>
     <desc lang="en">Aun Koh gets Chef Garima Arora, Asia's Best Female Chef (2019) in Bangkok to reveal her unique fermentation room, and a new recipe inspired by Chiangmai sausage that's not on the menu yet.(n)</desc>
   </programme>
-  <programme start="20210501190000 +0800" stop="20210501190200 +0800" channel="CNA (HD)">
+  <programme start="20210501190000 +0800" stop="20210501190200 +0800" channel="CNA.sg">
     <title lang="en">Headline News</title>
     <desc lang="en">The latest top stories of the hour.(n)</desc>
   </programme>
-  <programme start="20210501190200 +0800" stop="20210501200000 +0800" channel="CNA (HD)">
+  <programme start="20210501190200 +0800" stop="20210501200000 +0800" channel="CNA.sg">
     <title lang="en">Japan Hour [English Subtitles]</title>
     <desc lang="en">A famous mountain train nicknamed the "Hydrangea Train" and a store selling fancy and unique aroma oils and incense sticks - including a product costing one million yen - are featured this week.(n)</desc>
   </programme>
-  <programme start="20210501200000 +0800" stop="20210501203000 +0800" channel="CNA (HD)">
+  <programme start="20210501200000 +0800" stop="20210501203000 +0800" channel="CNA.sg">
     <title lang="en">Asia Tonight</title>
     <desc lang="en">CNA correspondents bring you the top stories of the day with 'live' reports and interviews to keep you up-to-date on the day's events.(n)</desc>
   </programme>
-  <programme start="20210501203000 +0800" stop="20210501210000 +0800" channel="CNA (HD)">
+  <programme start="20210501203000 +0800" stop="20210501210000 +0800" channel="CNA.sg">
     <title lang="en">CNA Correspondent</title>
     <desc lang="en">Following the coup in Myanmar, neighbouring Thailand braces for a potential humanitarian crisis as villagers near the border flee increased violence between the military and ethnic army groups.(n)</desc>
   </programme>
-  <programme start="20210501210000 +0800" stop="20210501210200 +0800" channel="CNA (HD)">
+  <programme start="20210501210000 +0800" stop="20210501210200 +0800" channel="CNA.sg">
     <title lang="en">Headline News</title>
     <desc lang="en">The latest top stories of the hour.(n)</desc>
   </programme>
-  <programme start="20210501210200 +0800" stop="20210501220000 +0800" channel="CNA (HD)">
+  <programme start="20210501210200 +0800" stop="20210501220000 +0800" channel="CNA.sg">
     <title lang="en">Undercover Asia S8</title>
     <desc lang="en">Dead cats and dogs washed up ashore in Hong Kong, terrorising coastal residents. How did the pets end up there? CNA's Wei Du investigates the gripping mystery.(n)</desc>
   </programme>
-  <programme start="20210501220000 +0800" stop="20210501223000 +0800" channel="CNA (HD)">
+  <programme start="20210501220000 +0800" stop="20210501223000 +0800" channel="CNA.sg">
     <title lang="en">Singapore Tonight</title>
     <desc lang="en">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.(n)</desc>
   </programme>
-  <programme start="20210501223000 +0800" stop="20210501230000 +0800" channel="CNA (HD)">
+  <programme start="20210501223000 +0800" stop="20210501230000 +0800" channel="CNA.sg">
     <title lang="en">Money Mind</title>
     <desc lang="en">After the first 100 days in the White House, what will the Biden presidency mean for you and your money in Asia?(n)</desc>
   </programme>
-  <programme start="20210501230000 +0800" stop="20210501230200 +0800" channel="CNA (HD)">
+  <programme start="20210501230000 +0800" stop="20210501230200 +0800" channel="CNA.sg">
     <title lang="en">Headline News</title>
     <desc lang="en">The latest top stories of the hour.(n)</desc>
   </programme>
-  <programme start="20210501000000 +0700" stop="20210501010000 +0700" channel="CGTN">
-    <title lang="th">ห้องถ่ายทอดสดทวีปแอฟริกา</title>
+  <programme start="20210501000000 +0800" stop="20210501010000 +0800" channel="18">
+    <title lang="en">Global Business</title>
+    <desc lang="en">The flagship business program of 18's English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies. The bi...(n)</desc>
   </programme>
-  <programme start="20210501010000 +0700" stop="20210501020000 +0700" channel="CGTN">
-    <title lang="th">รู้ทันเศรษฐกิจโลก</title>
+  <programme start="20210501010000 +0800" stop="20210501020000 +0800" channel="18">
+    <title lang="en">Africa Live</title>
+    <desc lang="en">Africa Live is a news program that focuses on African issues and issues related to this diverse continent. 18's Nairobi-based broadcast center produces Africa Live. Local correspondents and local production teams provide authoritative and in-depth stories from across the region. Africa Live is an objective and comprehensive look at every facet of African life.(n)</desc>
   </programme>
-  <programme start="20210501020000 +0700" stop="20210501023000 +0700" channel="CGTN">
-    <title lang="th">ทันโลกวันนี้</title>
+  <programme start="20210501020000 +0800" stop="20210501030000 +0800" channel="18">
+    <title lang="en">Global Business</title>
+    <desc lang="en">The flagship business program of 18's English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies. The bi...(n)</desc>
   </programme>
-  <programme start="20210501023000 +0700" stop="20210501030000 +0700" channel="CGTN">
-    <title lang="th">สนทนากับหยางยุ่ย</title>
+  <programme start="20210501030000 +0800" stop="20210501033000 +0800" channel="18">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The core rolling news service of 18, with regular updates from Beijing, Washington, and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.(n)</desc>
   </programme>
-  <programme start="20210501030000 +0700" stop="20210501031500 +0700" channel="CGTN">
-    <title lang="th">ทันโลกวันนี้</title>
+  <programme start="20210501033000 +0800" stop="20210501040000 +0800" channel="18">
+    <title lang="en">Dialogue</title>
+    <desc lang="en">Dialogue is a prime time daily English talk show on 18. The 30-minute talk show covers a wide range of domestic and international topics, providing a balanced and critical perspective on current affairs and analysis within the framework of cross-cultural and multi-disciplinary comparisons. Inviting decision makers in government, business and academia onto the show, the host Yang Rui encourages guests to speak their minds frankly. Hundreds of state heads, diplomats, business leaders and cult...(n)</desc>
   </programme>
-  <programme start="20210501031500 +0700" stop="20210501040000 +0700" channel="CGTN">
-    <title lang="th">มองเศรษฐกิจโลก</title>
+  <programme start="20210501040000 +0800" stop="20210501041500 +0800" channel="18">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The core rolling news service of 18, with regular updates from Beijing, Washington, and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.(n)</desc>
   </programme>
-  <programme start="20210501040000 +0700" stop="20210501043000 +0700" channel="CGTN">
-    <title lang="th">รู้ทันเศรษฐกิจโลก</title>
+  <programme start="20210501041500 +0800" stop="20210501050000 +0800" channel="18">
+    <title lang="en">World Insight with Tian Wei</title>
+    <desc lang="en">World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion. It is the meeting point of both the highly influential and rising voices, facilitated by host, Tian Wei. Every Monday to Friday, it provides nutrition to form your own thoughts and ideas through live debate and interviews. Live debates linking movers and shakers take place in the signature segment “Global Debate”. It features a diversity of perspectives and insights on the most importan...(n)</desc>
   </programme>
-  <programme start="20210501043000 +0700" stop="20210501050000 +0700" channel="CGTN">
-    <title lang="th">เปิดมุมมองพูดคุย</title>
+  <programme start="20210501050000 +0800" stop="20210501053000 +0800" channel="18">
+    <title lang="en">Global Business</title>
+    <desc lang="en">The flagship business program of 18's English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies. The bi...(n)</desc>
   </programme>
-  <programme start="20210501050000 +0700" stop="20210501060000 +0700" channel="CGTN">
-    <title lang="th">บันทึกรอบโลก</title>
+  <programme start="20210501053000 +0800" stop="20210501060000 +0800" channel="18">
+    <title lang="en">The Point with Liu Xin</title>
+    <desc lang="en">The Point with LIU Xin is a current affairs program on 18. The program comments on global news through LIU Xin's very own unique perspective. With two decades of experience as a news anchor and overseas correspondent, LIU Xin has an engaging and personal style. The Point with LIU Xin connects world audience through social media, enhancing their participation as well as offering a comprehensive perspective on world events.(n)</desc>
   </programme>
-  <programme start="20210501060000 +0700" stop="20210501063000 +0700" channel="CGTN">
-    <title lang="th">ประเด็นร้อน</title>
+  <programme start="20210501060000 +0800" stop="20210501070000 +0800" channel="18">
+    <title lang="en">Americas Now</title>
+    <desc lang="en">Americas Now profiles the development, diversity and challenges facing the Americas, particularly Latin America. The strength of the program is its storytelling. Correspondents across the region present insightful, well-researched and engaging narratives. Americas Now is a compelling, authoritative and balanced voice from the region, giving 18 a competitive edge in the North American media market.(n)</desc>
   </programme>
-  <programme start="20210501063000 +0700" stop="20210501070000 +0700" channel="CGTN">
-    <title lang="th">ทันโลกวันนี้</title>
+  <programme start="20210501070000 +0800" stop="20210501073000 +0800" channel="18">
+    <title lang="en">The Heat</title>
+    <desc lang="en">The Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally. The Heat presents tough issues from a comprehensive, balanced and international and Chinese perspective. Guests from on the spot and around the world ensure lively debate and a range of voices. Wherever the story is happening, The Heat is there.(n)</desc>
   </programme>
-  <programme start="20210501070000 +0700" stop="20210501080000 +0700" channel="CGTN">
-    <title lang="th">รู้ทันเศรษฐกิจโลก</title>
+  <programme start="20210501073000 +0800" stop="20210501080000 +0800" channel="18">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The core rolling news service of 18, with regular updates from Beijing, Washington, and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.(n)</desc>
   </programme>
-  <programme start="20210501080000 +0700" stop="20210501083000 +0700" channel="CGTN">
-    <title lang="th">ทันโลกวันนี้</title>
+  <programme start="20210501080000 +0800" stop="20210501090000 +0800" channel="18">
+    <title lang="en">Global Business</title>
+    <desc lang="en">The flagship business program of 18's English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies. The bi...(n)</desc>
   </programme>
-  <programme start="20210501083000 +0700" stop="20210501090000 +0700" channel="CGTN">
-    <title lang="th">24 ชั่วโมงปรเทศจีน</title>
+  <programme start="20210501090000 +0800" stop="20210501093000 +0800" channel="18">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The core rolling news service of 18, with regular updates from Beijing, Washington, and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.(n)</desc>
   </programme>
-  <programme start="20210501090000 +0700" stop="20210501093000 +0700" channel="CGTN">
-    <title lang="th">ทันโลกวันนี้</title>
+  <programme start="20210501093000 +0800" stop="20210501100000 +0800" channel="18">
+    <title lang="en">China 24</title>
+    <desc lang="en">China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China. Produced by 18's studios in Beijing and Washington D.C., the show takes a compelling and comprehensive look at China. It explores the country's business, politics, technology, culture, entertainment and more. China 24 tackles head-on the issues that matter most to the nation and its people, with topical reports highlighting challenges facing this fast-changing country.(n)</desc>
   </programme>
-  <programme start="20210501093000 +0700" stop="20210501100000 +0700" channel="CGTN">
-    <title lang="th">เปิดมุมมองพูดคุย</title>
+  <programme start="20210501100000 +0800" stop="20210501103000 +0800" channel="18">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The core rolling news service of 18, with regular updates from Beijing, Washington, and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.(n)</desc>
   </programme>
-  <programme start="20210501100000 +0700" stop="20210501101500 +0700" channel="CGTN">
-    <title lang="th">ทันโลกวันนี้</title>
+  <programme start="20210501103000 +0800" stop="20210501110000 +0800" channel="18">
+    <title lang="en">The Point with Liu Xin</title>
+    <desc lang="en">The Point with LIU Xin is a current affairs program on 18. The program comments on global news through LIU Xin's very own unique perspective. With two decades of experience as a news anchor and overseas correspondent, LIU Xin has an engaging and personal style. The Point with LIU Xin connects world audience through social media, enhancing their participation as well as offering a comprehensive perspective on world events.(n)</desc>
   </programme>
-  <programme start="20210501101500 +0700" stop="20210501103000 +0700" channel="CGTN">
-    <title lang="th">รายงานข่าวกีฬา</title>
+  <programme start="20210501110000 +0800" stop="20210501111500 +0800" channel="18">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The core rolling news service of 18, with regular updates from Beijing, Washington, and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.(n)</desc>
   </programme>
-  <programme start="20210501103000 +0700" stop="20210501110000 +0700" channel="CGTN">
-    <title lang="th">สนทนากับหยางยุ่ย</title>
+  <programme start="20210501111500 +0800" stop="20210501113000 +0800" channel="18">
+    <title lang="en">Sports Scene</title>
+    <desc lang="en">Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues. We examine the changes and growth in China's domestic leagues, as the country undergoes an incredible economic transformation. Our exclusive features, "Tackling China", "CBA Stories", and "Beyond the Baseline", take you behind the scenes and closer to the top athletes in China, by providing a unique perspective on the top sports stor...(n)</desc>
   </programme>
-  <programme start="20210501110000 +0700" stop="20210501120000 +0700" channel="CGTN">
-    <title lang="th">มองไกลรอบโลก</title>
+  <programme start="20210501113000 +0800" stop="20210501120000 +0800" channel="18">
+    <title lang="en">Dialogue</title>
+    <desc lang="en">Dialogue is a prime time daily English talk show on 18. The 30-minute talk show covers a wide range of domestic and international topics, providing a balanced and critical perspective on current affairs and analysis within the framework of cross-cultural and multi-disciplinary comparisons. Inviting decision makers in government, business and academia onto the show, the host Yang Rui encourages guests to speak their minds frankly. Hundreds of state heads, diplomats, business leaders and cult...(n)</desc>
   </programme>
-  <programme start="20210501120000 +0700" stop="20210501130000 +0700" channel="CGTN">
-    <title lang="th">รู้ทันเศรษฐกิจโลก</title>
+  <programme start="20210501120000 +0800" stop="20210501130000 +0800" channel="18">
+    <title lang="en">Global Watch</title>
+    <desc lang="en">GLOBAL WATCH is a 60 minute-long news program. The show stresses Chinese elements, emphasizing China's perspective, policies and stories. The program, relying on global reporting resources, presents in-depth analysis and coverage of major global issues, from a Chinese perspective on international affairs. The program presents to-the-point interpretation of Chinese policies and stories that are of interest to foreign audiences, in a style they are familiar with.(n)</desc>
   </programme>
-  <programme start="20210501130000 +0700" stop="20210501133000 +0700" channel="CGTN">
-    <title lang="th">ทันโลกวันนี้</title>
+  <programme start="20210501130000 +0800" stop="20210501140000 +0800" channel="18">
+    <title lang="en">Big Story</title>
+    <desc lang="en">Big Story is a documentary film program on 18. It explores global events with in a variety of filmic styles and featuring original, in-depth, thought-provoking storytelling. The program provides a unique platform for the best current affairs documentaries from around the globe. Big Story aims to present the contemporary world and China's global perspectives on the contemporary world to an international audience.(n)</desc>
   </programme>
-  <programme start="20210501133000 +0700" stop="20210501140000 +0700" channel="CGTN">
-    <title lang="th">ประเด็นร้อน</title>
+  <programme start="20210501140000 +0800" stop="20210501143000 +0800" channel="18">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The core rolling news service of 18, with regular updates from Beijing, Washington, and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.(n)</desc>
   </programme>
-  <programme start="20210501140000 +0700" stop="20210501143000 +0700" channel="CGTN">
-    <title lang="th">ทันโลกวันนี้</title>
+  <programme start="20210501143000 +0800" stop="20210501150000 +0800" channel="18">
+    <title lang="en">The Heat</title>
+    <desc lang="en">The Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally. The Heat presents tough issues from a comprehensive, balanced and international and Chinese perspective. Guests from on the spot and around the world ensure lively debate and a range of voices. Wherever the story is happening, The Heat is there.(n)</desc>
   </programme>
-  <programme start="20210501143000 +0700" stop="20210501150000 +0700" channel="CGTN">
-    <title lang="th">รายงานข่าวกีฬา</title>
+  <programme start="20210501150000 +0800" stop="20210501153000 +0800" channel="18">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The core rolling news service of 18, with regular updates from Beijing, Washington, and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.(n)</desc>
   </programme>
-  <programme start="20210501150000 +0700" stop="20210501153000 +0700" channel="CGTN">
-    <title lang="th">ทันโลกวันนี้</title>
+  <programme start="20210501153000 +0800" stop="20210501160000 +0800" channel="18">
+    <title lang="en">Sports Scene</title>
+    <desc lang="en">Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues. We examine the changes and growth in China's domestic leagues, as the country undergoes an incredible economic transformation. Our exclusive features, "Tackling China", "CBA Stories", and "Beyond the Baseline", take you behind the scenes and closer to the top athletes in China, by providing a unique perspective on the top sports stor...(n)</desc>
   </programme>
-  <programme start="20210501153000 +0700" stop="20210501160000 +0700" channel="CGTN">
-    <title lang="th">จีนค้าขายร่ำรวย</title>
+  <programme start="20210501160000 +0800" stop="20210501163000 +0800" channel="18">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The core rolling news service of 18, with regular updates from Beijing, Washington, and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.(n)</desc>
   </programme>
-  <programme start="20210501160000 +0700" stop="20210501163000 +0700" channel="CGTN">
-    <title lang="th">ทันโลกวันนี้</title>
+  <programme start="20210501163000 +0800" stop="20210501170000 +0800" channel="18">
+    <title lang="en">Biz Talk</title>
+    <desc lang="en">A groundbreaking 30-minute interview show, giving an in-depth look into how top companies around the world conduct business and how policymakers view the fast-changing world economy. It presents 360 degree profiles of industry movers and shakers, tech mavericks and policymakers, and drills down on the stories behind their success, to give you clarity on what's happening in every facet of business.(n)</desc>
   </programme>
-  <programme start="20210501163000 +0700" stop="20210501170000 +0700" channel="CGTN">
-    <title lang="th">ถิ่นคนดัง</title>
+  <programme start="20210501170000 +0800" stop="20210501173000 +0800" channel="18">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The core rolling news service of 18, with regular updates from Beijing, Washington, and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.(n)</desc>
   </programme>
-  <programme start="20210501170000 +0700" stop="20210501180000 +0700" channel="CGTN">
-    <title lang="th">ห้องถ่ายทอดสดทวีปแอฟริกา</title>
+  <programme start="20210501173000 +0800" stop="20210501180000 +0800" channel="18">
+    <title lang="en">Icon</title>
+    <desc lang="en">Icon is a weekly talk show that offers up-close encounter with today's leading cultural icons. Through intimate conversations with celebrities from the worlds of art and entertainment, host Ji Xiaojun digs deep to discover the person underneath the image.(n)</desc>
   </programme>
-  <programme start="20210501180000 +0700" stop="20210501183000 +0700" channel="CGTN">
-    <title lang="th">ห้องถ่ายทอดสดทวีปเอเชีย</title>
+  <programme start="20210501180000 +0800" stop="20210501190000 +0800" channel="18">
+    <title lang="en">Africa Live</title>
+    <desc lang="en">Africa Live is a news program that focuses on African issues and issues related to this diverse continent. 18's Nairobi-based broadcast center produces Africa Live. Local correspondents and local production teams provide authoritative and in-depth stories from across the region. Africa Live is an objective and comprehensive look at every facet of African life.(n)</desc>
   </programme>
-  <programme start="20210501183000 +0700" stop="20210501190000 +0700" channel="CGTN">
-    <title lang="th">สนทนากับหยางยุ่ย</title>
+  <programme start="20210501190000 +0800" stop="20210501193000 +0800" channel="18">
+    <title lang="en">Asia Today</title>
+    <desc lang="en">Asia Today highlights the latest news and social developments across Asia. Correspondents in over a dozen countries report on the region's top stories as they happen. Analysts bring Asian perspective to topical and developing issues. Asia Today also emphasizes the diverse cultures and lifestyles of the world's most populous continent.(n)</desc>
   </programme>
-  <programme start="20210501190000 +0700" stop="20210501191500 +0700" channel="CGTN">
-    <title lang="th">ทันโลกวันนี้</title>
+  <programme start="20210501193000 +0800" stop="20210501200000 +0800" channel="18">
+    <title lang="en">Dialogue</title>
+    <desc lang="en">Dialogue is a prime time daily English talk show on 18. The 30-minute talk show covers a wide range of domestic and international topics, providing a balanced and critical perspective on current affairs and analysis within the framework of cross-cultural and multi-disciplinary comparisons. Inviting decision makers in government, business and academia onto the show, the host Yang Rui encourages guests to speak their minds frankly. Hundreds of state heads, diplomats, business leaders and cult...(n)</desc>
   </programme>
-  <programme start="20210501191500 +0700" stop="20210501200000 +0700" channel="CGTN">
-    <title lang="th">24 ชั่วโมงปรเทศจีน</title>
+  <programme start="20210501200000 +0800" stop="20210501201500 +0800" channel="18">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The core rolling news service of 18, with regular updates from Beijing, Washington, and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.(n)</desc>
   </programme>
-  <programme start="20210501200000 +0700" stop="20210501203000 +0700" channel="CGTN">
-    <title lang="th">ทันโลกวันนี้</title>
+  <programme start="20210501201500 +0800" stop="20210501210000 +0800" channel="18">
+    <title lang="en">China 24</title>
+    <desc lang="en">China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China. Produced by 18's studios in Beijing and Washington D.C., the show takes a compelling and comprehensive look at China. It explores the country's business, politics, technology, culture, entertainment and more. China 24 tackles head-on the issues that matter most to the nation and its people, with topical reports highlighting challenges facing this fast-changing country.(n)</desc>
   </programme>
-  <programme start="20210501203000 +0700" stop="20210501210000 +0700" channel="CGTN">
-    <title lang="th">สำรวจเอเชีย</title>
+  <programme start="20210501210000 +0800" stop="20210501213000 +0800" channel="18">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The core rolling news service of 18, with regular updates from Beijing, Washington, and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.(n)</desc>
   </programme>
-  <programme start="20210501210000 +0700" stop="20210501211500 +0700" channel="CGTN">
-    <title lang="th">ทันโลกวันนี้</title>
+  <programme start="20210501213000 +0800" stop="20210501220000 +0800" channel="18">
+    <title lang="en">Assignment Asia</title>
+    <desc lang="en">Assignment Asia is a current affairs program that takes an in-depth look at stories from all over Asia. The show focuses on people. It puts the spotlight on issues affecting the region through interviews with and first-person accounts of ordinary people with extraordinary stories.(n)</desc>
   </programme>
-  <programme start="20210501211500 +0700" stop="20210501220000 +0700" channel="CGTN">
-    <title lang="th">พูดคุยแขกต่างชาติ</title>
+  <programme start="20210501220000 +0800" stop="20210501223000 +0800" channel="18">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The core rolling news service of 18, with regular updates from Beijing, Washington, and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.(n)</desc>
   </programme>
-  <programme start="20210501220000 +0700" stop="20210501223000 +0700" channel="CGTN">
-    <title lang="th">ทันโลกวันนี้</title>
+  <programme start="20210501223000 +0800" stop="20210501230000 +0800" channel="18">
+    <title lang="en">Biz Talk</title>
+    <desc lang="en">A groundbreaking 30-minute interview show, giving an in-depth look into how top companies around the world conduct business and how policymakers view the fast-changing world economy. It presents 360 degree profiles of industry movers and shakers, tech mavericks and policymakers, and drills down on the stories behind their success, to give you clarity on what's happening in every facet of business.(n)</desc>
   </programme>
-  <programme start="20210501223000 +0700" stop="20210501230000 +0700" channel="CGTN">
-    <title lang="th">ถิ่นคนดัง</title>
+  <programme start="20210501230000 +0800" stop="20210501233000 +0800" channel="18">
+    <title lang="en">The World Today</title>
+    <desc lang="en">The core rolling news service of 18, with regular updates from Beijing, Washington, and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.(n)</desc>
   </programme>
-  <programme start="20210501230000 +0700" stop="20210501231500 +0700" channel="CGTN">
-    <title lang="th">ทันโลกวันนี้</title>
+  <programme start="20210501001500 +0800" stop="20210501004000 +0800" channel="WarnerTV.us">
+    <title lang="en">Friends S9</title>
+    <desc lang="en">despite the fact that it is the first sunny day since their arrival, everyone attends Ross' speech, which is enthusiastically received by his adoring fellow scientists.(n)</desc>
   </programme>
-  <programme start="20210501231500 +0700" stop="20210502000000 +0700" channel="CGTN">
-    <title lang="th">24 ชั่วโมงปรเทศจีน</title>
+  <programme start="20210501004000 +0800" stop="20210501013000 +0800" channel="WarnerTV.us">
+    <title lang="en">Gossip Girl S1</title>
+    <desc lang="en">Blair puts on a happy face for her 17th birthday party and attempts to hide the truth from her friends.(n)</desc>
+  </programme>
+  <programme start="20210501013000 +0800" stop="20210501015500 +0800" channel="WarnerTV.us">
+    <title lang="en">Storage Hunters S2</title>
+    <desc lang="en">The competition heats up as Brandon and Lori find themselves in an all out bidding war with the tough-talking Taylor brothers. Amidst the chaos, Jesse goes all-in for a locker that could be hiding an expert marksman's rare weapons. And later, Sean unveils.(n)</desc>
+  </programme>
+  <programme start="20210501015500 +0800" stop="20210501022000 +0800" channel="WarnerTV.us">
+    <title lang="en">Storage Hunters S2</title>
+    <desc lang="en">Our buyers go to war to win a locker packed with valuable vintage surf gear. Then, Brandon and Lori get stuck with a busted bin, but when they find a glass case filled with an unidentifiable goo, they're left wondering if this unit smells like moneyor jus.(n)</desc>
+  </programme>
+  <programme start="20210501022000 +0800" stop="20210501024500 +0800" channel="WarnerTV.us">
+    <title lang="en">Friends S9</title>
+    <desc lang="en">despite the fact that it is the first sunny day since their arrival, everyone attends Ross' speech, which is enthusiastically received by his adoring fellow scientists.(n)</desc>
+  </programme>
+  <programme start="20210501024500 +0800" stop="20210501033000 +0800" channel="WarnerTV.us">
+    <title lang="en">Top 20 Funniest S2</title>
+    <desc lang="en">Laughter is the best medicine...and it makes for a great television show, too! Get ready for non-stop hours of wall-to-wall laughs with TOP 20 FUNNIEST.(n)</desc>
+  </programme>
+  <programme start="20210501033000 +0800" stop="20210501042000 +0800" channel="WarnerTV.us">
+    <title lang="en">Arrow S1</title>
+    <desc lang="en">An angry resident of The Glades who calls himself "The Savior" (CHRISTOPHER REDMAN) embarks on a kidnapping and killing spree inspired by Arrow's vigilantism.(n)</desc>
+  </programme>
+  <programme start="20210501042000 +0800" stop="20210501051000 +0800" channel="WarnerTV.us">
+    <title lang="en">Lethal Weapon S3</title>
+    <desc lang="en">While Cole reflects upon his time in the CIA, Murtaugh struggles with past mistakes and Leo Getz (THOMAS LENNON) tries to convince Trish to join him on a case.(n)</desc>
+  </programme>
+  <programme start="20210501051000 +0800" stop="20210501060000 +0800" channel="WarnerTV.us">
+    <title lang="en">Top 20 Funniest S2</title>
+    <desc lang="en">Laughter is the best medicine...and it makes for a great television show, too! Get ready for non-stop hours of wall-to-wall laughs with TOP 20 FUNNIEST.(n)</desc>
+  </programme>
+  <programme start="20210501060000 +0800" stop="20210501064500 +0800" channel="WarnerTV.us">
+    <title lang="en">The Mentalist S7</title>
+    <desc lang="en">In the series finale episode, Lisbon accepts Jane's surprise marriage proposal, but a killer's quest for revenge may cost them the happy ending they've worked so hard to achieve.(n)</desc>
+  </programme>
+  <programme start="20210501064500 +0800" stop="20210501073500 +0800" channel="WarnerTV.us">
+    <title lang="en">Lethal Weapon S3</title>
+    <desc lang="en">In the season three premiere, Murtaugh (DAMON WAYANS) meets his match in former international CIA operative Wesley Cole (SEANN WILLIAM SCOTT) who's adjusting to life in LA.(n)</desc>
+  </programme>
+  <programme start="20210501073500 +0800" stop="20210501082500 +0800" channel="WarnerTV.us">
+    <title lang="en">Lethal Weapon S3</title>
+    <desc lang="en">While Cole &amp; Murtaugh attempt to find their stride in solving a murder, Cole navigates his role with his ex, Natalie (MAGGIE LAWSON) and daughter, Maya (SHAY RUDOLPH).(n)</desc>
+  </programme>
+  <programme start="20210501082500 +0800" stop="20210501091500 +0800" channel="WarnerTV.us">
+    <title lang="en">Lethal Weapon S3</title>
+    <desc lang="en">While Cole &amp; Murtaugh investigate a lottery scheme, Cole cares for his daughter and Murtaugh deals with the unexpected visit of his father in law (RICHARD ROUNDTREE).(n)</desc>
+  </programme>
+  <programme start="20210501091500 +0800" stop="20210501100500 +0800" channel="WarnerTV.us">
+    <title lang="en">Lethal Weapon S3</title>
+    <desc lang="en">While Cole reflects upon his time in the CIA, Murtaugh struggles with past mistakes and Leo Getz (THOMAS LENNON) tries to convince Trish to join him on a case.(n)</desc>
+  </programme>
+  <programme start="20210501100500 +0800" stop="20210501103000 +0800" channel="WarnerTV.us">
+    <title lang="en">Young Sheldon S4</title>
+    <desc lang="en">For 11-year-old Sheldon Cooper, it isn't easy growing up in East Texas. And while the vulnerable, gifted and somewhat naïve Sheldon deals with the world, his family must find a way to deal with him.(n)</desc>
+  </programme>
+  <programme start="20210501103000 +0800" stop="20210501112000 +0800" channel="WarnerTV.us">
+    <title lang="en">Supergirl S6</title>
+    <desc lang="en">Kara grew up in the shadow of her foster sister, Alex (CHYLER LEIGH), and learned to conceal the phenomenal powers she shares with her famous cousin, Superman, in order to keep her identity a secret.(n)</desc>
+  </programme>
+  <programme start="20210501112000 +0800" stop="20210501114500 +0800" channel="WarnerTV.us">
+    <title lang="en">Storage Hunters S1</title>
+    <desc lang="en">Competition boils over when bitter rivals Brandon and Jesse throw down over a storage unit containing an amazing movie monster and a potential hundred thousand dollar payout. Security steps in, but can they separate the boys before the blood hits thefloor.(n)</desc>
+  </programme>
+  <programme start="20210501114500 +0800" stop="20210501121000 +0800" channel="WarnerTV.us">
+    <title lang="en">Storage Hunters S1</title>
+    <desc lang="en">Brandon and Lori look to cash in on their first big trip to New Orleans, but the locals are hungering for a fight. Then, the Taylor Brothers wage war to win a locker loaded with hunting and sporting equipment. What no one knows is that hidden beneaththe f.(n)</desc>
+  </programme>
+  <programme start="20210501121000 +0800" stop="20210501123500 +0800" channel="WarnerTV.us">
+    <title lang="en">Storage Hunters S1</title>
+    <desc lang="en">Back on the bayou, the buyers are ready to crack open the abandoned lockers and throw down some serious cash. Local legend FJ sees big dollar signs in old voodoo artifacts. Brandon and Lori unearth a rare find with a potentially priceless payout. Andall b.(n)</desc>
+  </programme>
+  <programme start="20210501123500 +0800" stop="20210501130000 +0800" channel="WarnerTV.us">
+    <title lang="en">Storage Hunters S1</title>
+    <desc lang="en">The buyers press their luck in Sin City where Brandon and Lori get outfoxed by a group of locals with a questionable strategy. Then, Jesse gambles on a locker filled with junk. Everyone thinks he's crazy, but he knows something they don't. And later,vinta.(n)</desc>
+  </programme>
+  <programme start="20210501130000 +0800" stop="20210501153000 +0800" channel="WarnerTV.us">
+    <title lang="en">The Prestige</title>
+    <desc lang="en">Two friends and magicians become bitter enemies after a sudden tragedy. As they devote their lives to a rivalry played out on stage, the sacrifices each makes will lead them to fame and to tragedy.(n)</desc>
+  </programme>
+  <programme start="20210501153000 +0800" stop="20210501181000 +0800" channel="WarnerTV.us">
+    <title lang="en">Harry Potter And The Sorcerer's Stone</title>
+    <desc lang="en">Harry Potter and the Sorcerer's Stone tells the story of a boy who learns on his 11th birthday that he is the orphaned son of two powerful wizards and possesses unique magical powers of his own.(n)</desc>
+  </programme>
+  <programme start="20210501181000 +0800" stop="20210501210000 +0800" channel="WarnerTV.us">
+    <title lang="en">Harry Potter And The Chamber Of Secrets</title>
+    <desc lang="en">After a long summer with the horrid Dursleys, Harry Potter is thwarted in his attempts to board the train to Hogwarts School of Witchcraft and Wizardry to begin his second year. Harry's only transportation option is a magical flying car.(n)</desc>
+  </programme>
+  <programme start="20210501210000 +0800" stop="20210501225500 +0800" channel="WarnerTV.us">
+    <title lang="en">Escape Plan: The Extractors</title>
+    <desc lang="en">After rescuing the kidnapped daughter of a Hong Kong tech mogul from a Latvian prison, Ray Breslin's girlfriend is also captured. Now Breslin and his team must pull off a deadly mission against time.(n)</desc>
   </programme>
 </tv>
