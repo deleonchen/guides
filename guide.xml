@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AlJazeera English">
+    <display-name lang="en">AlJazeera English</display-name>
+    <url>http://www.aljazeera.com</url>
+  </channel>
+  <channel id="CNA (HD)">
+    <display-name lang="en">CNA (HD)</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="CGTN">
+    <display-name lang="en">CGTN</display-name>
+    <url>http://www.gigatv.3bb.co.th</url>
+  </channel>
+  <channel id="Warner TV">
+    <display-name lang="en">Warner TV</display-name>
+    <url>http://www.tv.trueid.net</url>
+  </channel>
+  <programme start="20210501000000 +0800" stop="20210501010000 +0800" channel="CNA (HD)">
+    <title lang="en">World Tonight</title>
+    <desc lang="en">A wrap of the day's events in Asia, and a look-ahead at the US and Europe.(n)</desc>
+  </programme>
+  <programme start="20210501010000 +0800" stop="20210501010200 +0800" channel="CNA (HD)">
+    <title lang="en">Headline News</title>
+    <desc lang="en">The latest top stories of the hour.(n)</desc>
+  </programme>
+  <programme start="20210501010200 +0800" stop="20210501013000 +0800" channel="CNA (HD)">
+    <title lang="en">CNA Correspondent</title>
+    <desc lang="en">Following the coup in Myanmar, neighbouring Thailand braces for a potential humanitarian crisis as villagers near the border flee increased violence between the military and ethnic army groups.(n)</desc>
+  </programme>
+  <programme start="20210501013000 +0800" stop="20210501020000 +0800" channel="CNA (HD)">
+    <title lang="en">Talking Point</title>
+    <desc lang="en">The global air fryer market is expected to reach US$1.2b by 2026. With more Singaporeans using air fryers, Talking Point investigates how much healthier air frying really is, compared to deep frying.(n)</desc>
+  </programme>
+  <programme start="20210501020000 +0800" stop="20210501030000 +0800" channel="CNA (HD)">
+    <title lang="en">Singapore Tonight</title>
+    <desc lang="en">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.(n)</desc>
+  </programme>
+  <programme start="20210501030000 +0800" stop="20210501040000 +0800" channel="CNA (HD)">
+    <title lang="en">Belly Of A Nation S2</title>
+    <desc lang="en">COVID-19 forces Singapore into semi-lockdown. Hawkers cope with lesser footfall and the demands of religion. But from ground-up, hawkers, drivers and customers unite for the love of food.(n)</desc>
+  </programme>
+  <programme start="20210501040000 +0800" stop="20210501050000 +0800" channel="CNA (HD)">
+    <title lang="en">Asia Tonight</title>
+    <desc lang="en">CNA correspondents bring you the top stories of the day with 'live' reports and interviews to keep you up-to-date on the day's events.(n)</desc>
+  </programme>
+  <programme start="20210501050000 +0800" stop="20210501053000 +0800" channel="CNA (HD)">
+    <title lang="en">CNA Correspondent</title>
+    <desc lang="en">Following the coup in Myanmar, neighbouring Thailand braces for a potential humanitarian crisis as villagers near the border flee increased violence between the military and ethnic army groups.(n)</desc>
+  </programme>
+  <programme start="20210501053000 +0800" stop="20210501060000 +0800" channel="CNA (HD)">
+    <title lang="en">Talking Point</title>
+    <desc lang="en">The global air fryer market is expected to reach US$1.2b by 2026. With more Singaporeans using air fryers, Talking Point investigates how much healthier air frying really is, compared to deep frying.(n)</desc>
+  </programme>
+  <programme start="20210501060000 +0800" stop="20210501070000 +0800" channel="CNA (HD)">
+    <title lang="en">Singapore Tonight</title>
+    <desc lang="en">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.(n)</desc>
+  </programme>
+  <programme start="20210501070000 +0800" stop="20210501073000 +0800" channel="CNA (HD)">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.(n)</desc>
+  </programme>
+  <programme start="20210501073000 +0800" stop="20210501080000 +0800" channel="CNA (HD)">
+    <title lang="en">CNA Correspondent</title>
+    <desc lang="en">Following the coup in Myanmar, neighbouring Thailand braces for a potential humanitarian crisis as villagers near the border flee increased violence between the military and ethnic army groups.(n)</desc>
+  </programme>
+  <programme start="20210501080000 +0800" stop="20210501083000 +0800" channel="CNA (HD)">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.(n)</desc>
+  </programme>
+  <programme start="20210501083000 +0800" stop="20210501090000 +0800" channel="CNA (HD)">
+    <title lang="en">Talking Point</title>
+    <desc lang="en">The global air fryer market is expected to reach US$1.2b by 2026. With more Singaporeans using air fryers, Talking Point investigates how much healthier air frying really is, compared to deep frying.(n)</desc>
+  </programme>
+  <programme start="20210501090000 +0800" stop="20210501093000 +0800" channel="CNA (HD)">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.(n)</desc>
+  </programme>
+  <programme start="20210501093000 +0800" stop="20210501100000 +0800" channel="CNA (HD)">
+    <title lang="en">Secret Delicious</title>
+    <desc lang="en">Aun Koh gets Chef Garima Arora, Asia's Best Female Chef (2019) in Bangkok to reveal her unique fermentation room, and a new recipe inspired by Chiangmai sausage that's not on the menu yet.(n)</desc>
+  </programme>
+  <programme start="20210501100000 +0800" stop="20210501100200 +0800" channel="CNA (HD)">
+    <title lang="en">Headline News</title>
+    <desc lang="en">The latest top stories of the hour.(n)</desc>
+  </programme>
+  <programme start="20210501100200 +0800" stop="20210501110000 +0800" channel="CNA (HD)">
+    <title lang="en">The Longest Day</title>
+    <desc lang="en">We meet those who are most vulnerable to extreme heat - schoolchildren in Sumba, the elderly in Singapore and slum-dwellers in Delhi - and learn how heat is a silent killer.(n)</desc>
+  </programme>
+  <programme start="20210501110000 +0800" stop="20210501113000 +0800" channel="CNA (HD)">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.(n)</desc>
+  </programme>
+  <programme start="20210501113000 +0800" stop="20210501120000 +0800" channel="CNA (HD)">
+    <title lang="en">CNA Correspondent</title>
+    <desc lang="en">Following the coup in Myanmar, neighbouring Thailand braces for a potential humanitarian crisis as villagers near the border flee increased violence between the military and ethnic army groups.(n)</desc>
+  </programme>
+  <programme start="20210501120000 +0800" stop="20210501123000 +0800" channel="CNA (HD)">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.(n)</desc>
+  </programme>
+  <programme start="20210501123000 +0800" stop="20210501130000 +0800" channel="CNA (HD)">
+    <title lang="en">Secret Delicious</title>
+    <desc lang="en">Aun Koh gets Chef Garima Arora, Asia's Best Female Chef (2019) in Bangkok to reveal her unique fermentation room, and a new recipe inspired by Chiangmai sausage that's not on the menu yet.(n)</desc>
+  </programme>
+  <programme start="20210501130000 +0800" stop="20210501130200 +0800" channel="CNA (HD)">
+    <title lang="en">Headline News</title>
+    <desc lang="en">The latest top stories of the hour.(n)</desc>
+  </programme>
+  <programme start="20210501130200 +0800" stop="20210501140000 +0800" channel="CNA (HD)">
+    <title lang="en">Insight</title>
+    <desc lang="en">After the devastation 4 years ago, has the Philippine's city of Marawi risen up from the rubble?(n)</desc>
+  </programme>
+  <programme start="20210501140000 +0800" stop="20210501143000 +0800" channel="CNA (HD)">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.(n)</desc>
+  </programme>
+  <programme start="20210501143000 +0800" stop="20210501150000 +0800" channel="CNA (HD)">
+    <title lang="en">Gangnam Insider's Picks S3</title>
+    <desc lang="en">Power up as we explore blood-pumping martial arts from across the world here in Gangnam.(n)</desc>
+  </programme>
+  <programme start="20210501150000 +0800" stop="20210501153000 +0800" channel="CNA (HD)">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.(n)</desc>
+  </programme>
+  <programme start="20210501153000 +0800" stop="20210501160000 +0800" channel="CNA (HD)">
+    <title lang="en">Secret Delicious</title>
+    <desc lang="en">Aun Koh gets Chef Garima Arora, Asia's Best Female Chef (2019) in Bangkok to reveal her unique fermentation room, and a new recipe inspired by Chiangmai sausage that's not on the menu yet.(n)</desc>
+  </programme>
+  <programme start="20210501160000 +0800" stop="20210501160200 +0800" channel="CNA (HD)">
+    <title lang="en">Headline News</title>
+    <desc lang="en">The latest top stories of the hour.(n)</desc>
+  </programme>
+  <programme start="20210501160200 +0800" stop="20210501163000 +0800" channel="CNA (HD)">
+    <title lang="en">In Conversation</title>
+    <desc lang="en">Renowned primatologist Jane Goodall says the disrespect for nature has caused diseases to cross over from animals to humans, like in the COVID-19 pandemic. But how will saving wildlife save humankind?(n)</desc>
+  </programme>
+  <programme start="20210501163000 +0800" stop="20210501170000 +0800" channel="CNA (HD)">
+    <title lang="en">Wizards Of Tech</title>
+    <desc lang="en">An aerial silk dancer turning waste into aerogel that can soak up oil spills. Biker buddies giving helmets Ironman-like smart displays. A bird watcher building a drone that does the work of bees.(n)</desc>
+  </programme>
+  <programme start="20210501170000 +0800" stop="20210501173000 +0800" channel="CNA (HD)">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.(n)</desc>
+  </programme>
+  <programme start="20210501173000 +0800" stop="20210501180000 +0800" channel="CNA (HD)">
+    <title lang="en">Talking Point</title>
+    <desc lang="en">The global air fryer market is expected to reach US$1.2b by 2026. With more Singaporeans using air fryers, Talking Point investigates how much healthier air frying really is, compared to deep frying.(n)</desc>
+  </programme>
+  <programme start="20210501180000 +0800" stop="20210501183000 +0800" channel="CNA (HD)">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.(n)</desc>
+  </programme>
+  <programme start="20210501183000 +0800" stop="20210501190000 +0800" channel="CNA (HD)">
+    <title lang="en">Secret Delicious</title>
+    <desc lang="en">Aun Koh gets Chef Garima Arora, Asia's Best Female Chef (2019) in Bangkok to reveal her unique fermentation room, and a new recipe inspired by Chiangmai sausage that's not on the menu yet.(n)</desc>
+  </programme>
+  <programme start="20210501190000 +0800" stop="20210501190200 +0800" channel="CNA (HD)">
+    <title lang="en">Headline News</title>
+    <desc lang="en">The latest top stories of the hour.(n)</desc>
+  </programme>
+  <programme start="20210501190200 +0800" stop="20210501200000 +0800" channel="CNA (HD)">
+    <title lang="en">Japan Hour [English Subtitles]</title>
+    <desc lang="en">A famous mountain train nicknamed the "Hydrangea Train" and a store selling fancy and unique aroma oils and incense sticks - including a product costing one million yen - are featured this week.(n)</desc>
+  </programme>
+  <programme start="20210501200000 +0800" stop="20210501203000 +0800" channel="CNA (HD)">
+    <title lang="en">Asia Tonight</title>
+    <desc lang="en">CNA correspondents bring you the top stories of the day with 'live' reports and interviews to keep you up-to-date on the day's events.(n)</desc>
+  </programme>
+  <programme start="20210501203000 +0800" stop="20210501210000 +0800" channel="CNA (HD)">
+    <title lang="en">CNA Correspondent</title>
+    <desc lang="en">Following the coup in Myanmar, neighbouring Thailand braces for a potential humanitarian crisis as villagers near the border flee increased violence between the military and ethnic army groups.(n)</desc>
+  </programme>
+  <programme start="20210501210000 +0800" stop="20210501210200 +0800" channel="CNA (HD)">
+    <title lang="en">Headline News</title>
+    <desc lang="en">The latest top stories of the hour.(n)</desc>
+  </programme>
+  <programme start="20210501210200 +0800" stop="20210501220000 +0800" channel="CNA (HD)">
+    <title lang="en">Undercover Asia S8</title>
+    <desc lang="en">Dead cats and dogs washed up ashore in Hong Kong, terrorising coastal residents. How did the pets end up there? CNA's Wei Du investigates the gripping mystery.(n)</desc>
+  </programme>
+  <programme start="20210501220000 +0800" stop="20210501223000 +0800" channel="CNA (HD)">
+    <title lang="en">Singapore Tonight</title>
+    <desc lang="en">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.(n)</desc>
+  </programme>
+  <programme start="20210501223000 +0800" stop="20210501230000 +0800" channel="CNA (HD)">
+    <title lang="en">Money Mind</title>
+    <desc lang="en">After the first 100 days in the White House, what will the Biden presidency mean for you and your money in Asia?(n)</desc>
+  </programme>
+  <programme start="20210501230000 +0800" stop="20210501230200 +0800" channel="CNA (HD)">
+    <title lang="en">Headline News</title>
+    <desc lang="en">The latest top stories of the hour.(n)</desc>
+  </programme>
+  <programme start="20210501000000 +0700" stop="20210501010000 +0700" channel="CGTN">
+    <title lang="th">ห้องถ่ายทอดสดทวีปแอฟริกา</title>
+  </programme>
+  <programme start="20210501010000 +0700" stop="20210501020000 +0700" channel="CGTN">
+    <title lang="th">รู้ทันเศรษฐกิจโลก</title>
+  </programme>
+  <programme start="20210501020000 +0700" stop="20210501023000 +0700" channel="CGTN">
+    <title lang="th">ทันโลกวันนี้</title>
+  </programme>
+  <programme start="20210501023000 +0700" stop="20210501030000 +0700" channel="CGTN">
+    <title lang="th">สนทนากับหยางยุ่ย</title>
+  </programme>
+  <programme start="20210501030000 +0700" stop="20210501031500 +0700" channel="CGTN">
+    <title lang="th">ทันโลกวันนี้</title>
+  </programme>
+  <programme start="20210501031500 +0700" stop="20210501040000 +0700" channel="CGTN">
+    <title lang="th">มองเศรษฐกิจโลก</title>
+  </programme>
+  <programme start="20210501040000 +0700" stop="20210501043000 +0700" channel="CGTN">
+    <title lang="th">รู้ทันเศรษฐกิจโลก</title>
+  </programme>
+  <programme start="20210501043000 +0700" stop="20210501050000 +0700" channel="CGTN">
+    <title lang="th">เปิดมุมมองพูดคุย</title>
+  </programme>
+  <programme start="20210501050000 +0700" stop="20210501060000 +0700" channel="CGTN">
+    <title lang="th">บันทึกรอบโลก</title>
+  </programme>
+  <programme start="20210501060000 +0700" stop="20210501063000 +0700" channel="CGTN">
+    <title lang="th">ประเด็นร้อน</title>
+  </programme>
+  <programme start="20210501063000 +0700" stop="20210501070000 +0700" channel="CGTN">
+    <title lang="th">ทันโลกวันนี้</title>
+  </programme>
+  <programme start="20210501070000 +0700" stop="20210501080000 +0700" channel="CGTN">
+    <title lang="th">รู้ทันเศรษฐกิจโลก</title>
+  </programme>
+  <programme start="20210501080000 +0700" stop="20210501083000 +0700" channel="CGTN">
+    <title lang="th">ทันโลกวันนี้</title>
+  </programme>
+  <programme start="20210501083000 +0700" stop="20210501090000 +0700" channel="CGTN">
+    <title lang="th">24 ชั่วโมงปรเทศจีน</title>
+  </programme>
+  <programme start="20210501090000 +0700" stop="20210501093000 +0700" channel="CGTN">
+    <title lang="th">ทันโลกวันนี้</title>
+  </programme>
+  <programme start="20210501093000 +0700" stop="20210501100000 +0700" channel="CGTN">
+    <title lang="th">เปิดมุมมองพูดคุย</title>
+  </programme>
+  <programme start="20210501100000 +0700" stop="20210501101500 +0700" channel="CGTN">
+    <title lang="th">ทันโลกวันนี้</title>
+  </programme>
+  <programme start="20210501101500 +0700" stop="20210501103000 +0700" channel="CGTN">
+    <title lang="th">รายงานข่าวกีฬา</title>
+  </programme>
+  <programme start="20210501103000 +0700" stop="20210501110000 +0700" channel="CGTN">
+    <title lang="th">สนทนากับหยางยุ่ย</title>
+  </programme>
+  <programme start="20210501110000 +0700" stop="20210501120000 +0700" channel="CGTN">
+    <title lang="th">มองไกลรอบโลก</title>
+  </programme>
+  <programme start="20210501120000 +0700" stop="20210501130000 +0700" channel="CGTN">
+    <title lang="th">รู้ทันเศรษฐกิจโลก</title>
+  </programme>
+  <programme start="20210501130000 +0700" stop="20210501133000 +0700" channel="CGTN">
+    <title lang="th">ทันโลกวันนี้</title>
+  </programme>
+  <programme start="20210501133000 +0700" stop="20210501140000 +0700" channel="CGTN">
+    <title lang="th">ประเด็นร้อน</title>
+  </programme>
+  <programme start="20210501140000 +0700" stop="20210501143000 +0700" channel="CGTN">
+    <title lang="th">ทันโลกวันนี้</title>
+  </programme>
+  <programme start="20210501143000 +0700" stop="20210501150000 +0700" channel="CGTN">
+    <title lang="th">รายงานข่าวกีฬา</title>
+  </programme>
+  <programme start="20210501150000 +0700" stop="20210501153000 +0700" channel="CGTN">
+    <title lang="th">ทันโลกวันนี้</title>
+  </programme>
+  <programme start="20210501153000 +0700" stop="20210501160000 +0700" channel="CGTN">
+    <title lang="th">จีนค้าขายร่ำรวย</title>
+  </programme>
+  <programme start="20210501160000 +0700" stop="20210501163000 +0700" channel="CGTN">
+    <title lang="th">ทันโลกวันนี้</title>
+  </programme>
+  <programme start="20210501163000 +0700" stop="20210501170000 +0700" channel="CGTN">
+    <title lang="th">ถิ่นคนดัง</title>
+  </programme>
+  <programme start="20210501170000 +0700" stop="20210501180000 +0700" channel="CGTN">
+    <title lang="th">ห้องถ่ายทอดสดทวีปแอฟริกา</title>
+  </programme>
+  <programme start="20210501180000 +0700" stop="20210501183000 +0700" channel="CGTN">
+    <title lang="th">ห้องถ่ายทอดสดทวีปเอเชีย</title>
+  </programme>
+  <programme start="20210501183000 +0700" stop="20210501190000 +0700" channel="CGTN">
+    <title lang="th">สนทนากับหยางยุ่ย</title>
+  </programme>
+  <programme start="20210501190000 +0700" stop="20210501191500 +0700" channel="CGTN">
+    <title lang="th">ทันโลกวันนี้</title>
+  </programme>
+  <programme start="20210501191500 +0700" stop="20210501200000 +0700" channel="CGTN">
+    <title lang="th">24 ชั่วโมงปรเทศจีน</title>
+  </programme>
+  <programme start="20210501200000 +0700" stop="20210501203000 +0700" channel="CGTN">
+    <title lang="th">ทันโลกวันนี้</title>
+  </programme>
+  <programme start="20210501203000 +0700" stop="20210501210000 +0700" channel="CGTN">
+    <title lang="th">สำรวจเอเชีย</title>
+  </programme>
+  <programme start="20210501210000 +0700" stop="20210501211500 +0700" channel="CGTN">
+    <title lang="th">ทันโลกวันนี้</title>
+  </programme>
+  <programme start="20210501211500 +0700" stop="20210501220000 +0700" channel="CGTN">
+    <title lang="th">พูดคุยแขกต่างชาติ</title>
+  </programme>
+  <programme start="20210501220000 +0700" stop="20210501223000 +0700" channel="CGTN">
+    <title lang="th">ทันโลกวันนี้</title>
+  </programme>
+  <programme start="20210501223000 +0700" stop="20210501230000 +0700" channel="CGTN">
+    <title lang="th">ถิ่นคนดัง</title>
+  </programme>
+  <programme start="20210501230000 +0700" stop="20210501231500 +0700" channel="CGTN">
+    <title lang="th">ทันโลกวันนี้</title>
+  </programme>
+  <programme start="20210501231500 +0700" stop="20210502000000 +0700" channel="CGTN">
+    <title lang="th">24 ชั่วโมงปรเทศจีน</title>
+  </programme>
+</tv>
